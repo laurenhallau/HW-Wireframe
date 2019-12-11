@@ -1,3 +1,6 @@
+/*Style sheet for Wireframe assignment*/
+
+/*Style for body*/
 body{
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
     color: #777;
@@ -8,6 +11,7 @@ body{
 
 }
 
+/*Style for header, section, nav, article2, aside and footer*/
 #header,
 #section,
 #nav,
@@ -20,6 +24,7 @@ body{
     
 }
 
+/*Style for article*/
 #article1{
     color:#ebebeb;
     background: #777;
@@ -29,11 +34,13 @@ body{
 
 }
 
+/*Style for h1*/
 h1{
     font-size: 12pt
 
 }
 
+/*Style for header and nav*/
 #header,
 #nav{
     padding: 20px;
@@ -42,6 +49,7 @@ h1{
 
 }
 
+/*Style for section*/
 #section{
     float: left;
     width: 470px;
@@ -52,6 +60,7 @@ h1{
 
 }
 
+/*Style for aside*/
 #aside{
     width: 450px;
     float: right;
@@ -61,12 +70,14 @@ h1{
     
 }
 
+/*Style for ia2*/
 .ia2{
     padding: 5px;
     color: #777;
     background-color: #ebebeb
 }
 
+/*Style for footer*/
 #footer{
     padding: 20px;
     clear: both;
